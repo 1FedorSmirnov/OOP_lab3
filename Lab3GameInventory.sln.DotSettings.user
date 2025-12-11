@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIServiceProvider_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F091032721859406db7c4685dc29345ce1c00_003Fe7_003F7ee3ef15_003FIServiceProvider_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5374ffb_002D3b3a_002D4d2c_002Da914_002D87fec514bad5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="QuestItemTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.player.InventoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.bonus.StatModifierTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.bonus.ActiveBuffTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.set.SetServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.player.QuestLogTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.world.GameWorldTests.GameWorld_ExposesPlayerAndSets&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.Tests.Domain.PlayerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.player.PlayerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.Tests.Builder.PlayerBuilderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F11C72D-94DF-41A6-9705-919486F81B8B::net9.0::Lab3GameInventory.tests.builder.PlayerBuilderTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
